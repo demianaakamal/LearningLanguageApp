@@ -65,8 +65,7 @@ $ npm run ios
 | ---------- | ----------------------------------------------------------------- |
 | `andorid`  | Run on andorid emulator > the andorid emulator must be pre-starte |
 | `ios`      | Run on IOS emulator                                               |
-| `lint`     | Run `eslint`                                                      |
-| `lint:fix` | Auto fix eslint`                                                  |
+
 
 ## File Structure
 
